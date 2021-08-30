@@ -1,0 +1,4 @@
+[flake8]
+ignore = D203, W503
+exclude = build, static, venv, node_modules, conversion_implementations, .pytest_cache, .tox
+docstring-convention=numpy
