@@ -5,8 +5,7 @@ BDF merger tool
 [![Python](https://img.shields.io/badge/Python_version-3.0+-blue)](https://www.python.org/)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-![Codecov](https://img.shields.io/codecov/c/github/berndie/bdf_merger)
-
+[![codecov](https://codecov.io/gh/berndie/bdf_merger/branch/master/graph/badge.svg?token=1QAWJ4B2Y1)](https://codecov.io/gh/berndie/bdf_merger)
 
 This is a python3 tool for merging [BDF file format of BIOSEMI](https://www.biosemi.com/faq/file_format.htm).
 
