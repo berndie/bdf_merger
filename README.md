@@ -7,7 +7,7 @@ BDF merger tool
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![codecov](https://codecov.io/gh/berndie/bdf_merger/branch/master/graph/badge.svg?token=1QAWJ4B2Y1)](https://codecov.io/gh/berndie/bdf_merger)
 
-This is a python3 tool for merging [BDF file format of BIOSEMI](https://www.biosemi.com/faq/file_format.htm).
+This is a python3 tool for merging [EEG measurement files in BDF format](https://www.biosemi.com/faq/file_format.htm).
 
 
 This tool is __Extremely portable__: with just one file ([bdf_merger.py](./bdf_merger.py)) and Python 3 (all versions), you can start merging BDF files! No external dependencies!
