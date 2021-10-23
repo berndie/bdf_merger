@@ -61,6 +61,8 @@ To help with autoformatting, [black]() is used. The script in
 individual Python3 versions.
 
 For coverage [pytest-cov](https://github.com/pytest-dev/pytest-cov) is used.
+The custom [github action](./.github/workflows/ci.yaml) will upload the resulting
+coverage report(s) to [codecov.io](https://codecov.io/gh/berndie/bdf_merger).
 
 
 
